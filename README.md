@@ -31,10 +31,6 @@ Welcome to my GitHub profile! I'm a results-driven Computer Scientist and tech e
 - 📫 Reach out to me via im@christopherpinkston.com to discuss ideas or potential collaborations.
 - 🌐 Visit my website christopherpinkston.com to learn more about my work and expertise.
 
-## 📊 GitHub Stats
-
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisPinkston&show_icons=true&theme=dark)](https://github.com/chrisPinkston)
-
 ## 🏆 Noteworthy Achievements
 
 - 🏅  Personal Website christopherpinkston.com
