@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a results-driven Computer Scientist and tech e
 
 ## 📊 GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/chrisPinkston)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisPinkston&show_icons=true&theme=dark)](https://github.com/chrisPinkston)
 
 ## 🏆 Noteworthy Achievements
 
