@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a results-driven Computer Scientist and tech e
 
 ## 🚀 About Me
 
-- 💼 Currently excelling as a student and in search of internships and opportunities in machine learning, SCRUM managment, financial analyis, and investment banking.
+- 💼 Currently excelling as a student and in search of INTERNSHIPS and OPPORTUNITIES in machine learning, SCRUM managment, financial analyis, and investment banking.
 - 🎓 Graduating from The American University of Paris with a Double major in Computer Science and International Finance in Spring 2024.
 - 🌎 Based in France and Texas, and available for international projects and collaborations.
 
