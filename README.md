@@ -4,15 +4,15 @@ Welcome to my GitHub profile! I'm a results-driven Computer Scientist and tech e
 
 ## 🚀 About Me
 
-- 💼 Currently excelling as a student and in search of INTERNSHIPS and OPPORTUNITIES in machine learning, SCRUM managment, financial analyis, and investment banking.
-- 🎓 Graduating from The American University of Paris with a Double major in Computer Science and International Finance in Spring 2024.
-- 🌎 Based in France and Texas, and available for international projects and collaborations.
+- 💼 Currently in search of INTERNSHIPS and OPPORTUNITIES in software engineering, machine learning, SCRUM managment, financial analyis, and investment banking.
+- 🎓 Graduated with a B.S. from The American University of Paris with a Double major in Computer Science and International Finance.
+- 🌎 Based in Texas, and available for international projects and collaborations.
 
 ## 💡 What I Do
 
 - 👨‍💻 I thrive in fast-paced environments, solving complex problems with a unique blend of technical expertise and strategic thinking.
 - 💪 I possess a proven track record of delivering high-quality solutions that exceed expectations and drive business growth.
-- 🌟 Specialized in SCRUM managment, software development, machine learning,  and passionate about creating tools to make managing money easier, such as making a program for my Financial Accounting course that would format simple financial statments for me. 
+- 🌟 Specialized in SCRUM managment, full stack development, machine learning,  and passionate about creating tools to make managing money easier, such as making a program for my Financial Accounting course that would format simple financial statments for me. 
 
 ## 🛠️ Tech Stack
 
@@ -33,8 +33,9 @@ Welcome to my GitHub profile! I'm a results-driven Computer Scientist and tech e
 
 ## 🏆 Noteworthy Achievements
 
+- 🌟  Developed ML model to classify wounds to help Doctors and RN's in the wound healing process. 
 - 🏅  Personal Website christopherpinkston.com
-- 🌟  A in Architectures and Operating Systems this semester
+- 🌟  A in Architectures and Operating Systems
 - 🏅  Marathon finisher
 - 🌟  Double major in Computer Science and International Finance
 
