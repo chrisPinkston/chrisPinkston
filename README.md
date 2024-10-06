@@ -1,6 +1,6 @@
 # Greetings, I'm Christopher Pinkston! 👋
 
-Welcome to my GitHub profile! I'm a results-driven Computer Scientist and tech enthusiast who is passionate about leveraging cutting-edge technologies to drive innovation and create meaningful impact.
+I'm a results-driven Computer Scientist and tech enthusiast who is passionate about leveraging cutting-edge technologies to drive innovation and create meaningful impact.
 
 ## 🚀 About Me
 
