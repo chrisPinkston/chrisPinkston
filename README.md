@@ -7,6 +7,7 @@ I’m a software engineer passionate about applying AI to solve high-leverage pr
 [![Visit my LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-pinkston)
 [![Email Me!](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im@christopherpinkston.com)
 [![Visit my website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://christopherpinkston.com)
+[![Visit my website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://pinkstonanalytics.com)
 
 ## 🚀 Current Projects
 
