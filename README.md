@@ -5,8 +5,8 @@
 I’m a software engineer passionate about applying AI to solve high-leverage problems across finance, medicine, defense, and research. I blend deep technical understanding with economic insight — building tools that automate insight, enhance decisions, and scale intelligence.
 
 [![Visit my LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-pinkston)
-[![Email Me!](https://img.shields.io/badge/-Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im@christopherpinkston.com)
-[![Visit my website](https://img.shields.io/badge/-Visit-my-Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://christopherpinkston.com)
+[![Email Me!](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im@christopherpinkston.com)
+[![Visit my website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://christopherpinkston.com)
 
 ## 🚀 Current Projects
 
