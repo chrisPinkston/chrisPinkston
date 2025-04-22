@@ -10,6 +10,7 @@ I’m a software engineer passionate about applying AI to solve high-leverage pr
 - **🧠 Podcast Research Engine** – NLP + Whisper + local LLM pipeline that transcribes, summarizes, and maps 5-hr financial podcasts for analysts.
 - **💸 DCF & Intrinsic Valuation Tool** – Python-based intrinsic value calculator integrating clean financial data, discount rate optimization, and scenario modeling.
 - **🧬 Wound Classification AI** – Edge-deployed decision tree + vision prototype for optimizing wound care in clinical environments.
+- **🔒 Mycroft AI Alarm System: Raspberry Pi-based smart assistant with always-on orchestral wake-up and weather alerts.
 
 ## 🛠️ Core Stack
 
