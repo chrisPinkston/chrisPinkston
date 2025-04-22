@@ -19,8 +19,8 @@ I’m a software engineer passionate about applying AI to solve high-leverage pr
 | **🧬 Wound Classification AI** | Clinical-grade decision tree app for triaging wound care. |
 | **🔒 Mycroft AI Alarm System** | Raspberry Pi-based smart assistant with always-on orchestral wake-up and weather alerts.|
 
-## 🛠️ Core Stack
-
+## 🛠️ Tech Stack
+These are the core tools powering my most recent projects:
 
 [![Python](https://img.shields.io/badge/Made%20with-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LLaMA](https://img.shields.io/badge/Powered%20by-LLaMA-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiI+PC9zdmc+)]()
@@ -29,6 +29,8 @@ I’m a software engineer passionate about applying AI to solve high-leverage pr
 [![SQL](https://img.shields.io/badge/Data-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Firebase](https://img.shields.io/badge/Auth-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Obsidian](https://img.shields.io/badge/Note%20Export-Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
+
+I use these to build AI products, automate research, and deploy end-to-end tools that think.
 
 ```python
 Languages: Python, JavaScript (React/Node), TypeScript, SQL  
