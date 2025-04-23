@@ -15,7 +15,7 @@ I’m a software engineer passionate about applying AI to solve high-leverage pr
 |--------|-------------|
 | **📊 Pinkston Analytics** | Custom dashboards, valuations, and AI tools for decision-makers. 
 | **🧠 Podcast Research Engine** | Local LLM + Whisper pipeline. Converts multi-hour finance content into NotebookLM-style mind maps + summaries. |
-| **💸 TSMC Valuation Tool** | DCF calculator w/ forecasting, WACC tuning, and scenario modeling. |
+| **💸 Valuation Tool** | DCF calculator w/ forecasting, WACC tuning, and scenario modeling. |
 | **🧬 Wound Classification AI** | Clinical-grade decision tree app for triaging wound care. |
 | **🔒 Mycroft AI Alarm System** | Raspberry Pi-based smart assistant with always-on orchestral wake-up and weather alerts.|
 
